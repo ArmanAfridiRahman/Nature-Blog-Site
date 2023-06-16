@@ -1,0 +1,21 @@
+.menu-hover:hover{background-color: #2BB90A; color: white; box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;}
+.secondary-color{color: #2BB90A;}
+.menu-hover{transition: 0.5ms ease-out;}
+.hover{
+    transition: 0.3s ease-out;
+}
+.bg-secondary-color{background-color: #2BB90A;}
+.menu-hover-inverted{transition: 0.5ms ease-out;}
+.menu-hover-inverted:hover{background-color: black; color: white;}
+.grow-1{transition: 0.2s ease-out;}
+.grow-1:hover{transform: scale(1.02);}
+
+.grow-2{transition: 0.2s ease-out;}
+.grow-2:hover{transform: scale(1.02);}
+
+.grow-3{transition: 0.2s ease-out;}
+.grow-3:hover{transform: scale(1.03);}
+
+.dropdown-hover:hover .dropdown-menu{display: block;}
+
+
